@@ -1,0 +1,146 @@
+/* ==============================================
+                      RESET 
+==============================================  */
+html, body, div, span, applet, object, iframe,
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+article, aside, canvas, details, embed,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+small, strike, strong, sub, sup, tt, var,
+del, dfn, em, img, ins, kbd, q, s, samp,
+time, mark, audio, video, main,
+fieldset, form, label, legend,
+dl, dt, dd, ol, ul, li,
+caption, tfoot, thead,
+b, u, i, center {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+em {
+	font-style: italic;
+}
+strong {
+	font-weight: bold;
+}
+/* ==============================================
+                     BASE 
+==============================================  */
+*, *:before, *:after {
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+/*Link*/
+a { text-decoration: none; }
+	
+	a:active,
+	a:hover {
+	  outline: 0;
+	  text-decoration: none;
+	}
+	a:link { -webkit-tap-highlight-color: #000; } /*Цвет ссылки при касании на телефоне*/
+
+	/*a:-webkit-any-link { color: -webkit-link; text-decoration: underline; cursor: auto; }
+	  a:-moz-any-link { color: -moz-link; text-decoration: underline; cursor: auto; } */
+
+/*Responsive Images*/
+img, iframe, video { 
+	max-width: 100%;
+	width: 100%;
+	vertical-align: middle;
+	border: 0;
+	display: block; 
+	margin: 0 auto;
+}
+/*Form element*/
+input, select, textarea {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    outline: none;
+
+    border: 1px solid #ccc;
+    padding: 5px;
+    background: transparent;
+}
+	input:focus, 
+	select:focus, 
+	textarea:focus {
+	    outline: none;
+	}
+		/*Placeholder*/
+		::-webkit-input-placeholder {
+		   color: #ccc;
+		}
+		:-moz-placeholder { /* Firefox 18- */
+		   color: #ccc;  
+		}
+		::-moz-placeholder {  /* Firefox 19+ */
+		   color: #ccc;  
+		}
+		:-ms-input-placeholder {  
+		   color: #ccc;  
+		} 
+/*Horizontal Navigation*/
+.nav-hor li { 
+    	display: inline-block;
+    	vertical-align: middle; 
+    }
+
+/* Выделение текста */  
+::-moz-selection { background: #000; color: #FFF; }
+     ::selection { background: #000; color: #FFF; }
+
+html, body { 
+    margin: 0; 
+    padding: 0; 
+    width: 100%; 
+    height: 100%;
+
+    -webkit-text-size-adjust: none;  /* Размер текста на тел. не изменяется (none | auto | % ) */
+     -moz-osx-font-smoothing: grayscale; /* Рендеринг текста ( subpixel-antialiased | antialiased | none ) */
+      -webkit-font-smoothing: antialiased; 
+}
+
+body {
+    font-family: 'Roboto', cursive ;
+    font-size: 100%;
+    line-height: 1.2;
+    font-weight: normal;
+    position: relative;
+
+    background: #fff;    
+}
+
+
+
+

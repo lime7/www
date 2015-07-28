@@ -1,0 +1,1 @@
+!function(){AniJS.EventSystem;AniJS.EventSystem.isEventTarget=function(e){return e.trigger?1:0},AniJS.EventSystem.createEventTarget=function(){return $({})},AniJS.EventSystem.addEventListenerHelper=function(e,n,t,i){$(e).on(n,t)},AniJS.EventSystem.removeEventListenerHelper=function(e,n,t){$(e).off(n,t)}}(window);
