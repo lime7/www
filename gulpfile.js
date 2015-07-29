@@ -76,7 +76,6 @@ gulp.task('html', function(){
 gulp.task('style', function(){
 	gulp.src(path.app.css)
 		.pipe(autoprefixer())
-		// .pipe(gulp.dest('app/css/'))
 		.pipe(minifyCss())
 		.pipe(gulp.dest(path.dist.css))
 		.pipe(reload({stream : true}));
