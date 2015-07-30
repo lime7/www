@@ -28,9 +28,9 @@ bower init
 touch .bowerrc .gitignore gulpfile.js
 ```
 
-.gitignore - Список ф-ов игнорируемых в GIT
-.bowerrc - файл настройки Bower с помощью JSON
-gulpfile.js - файл настроек для сборки проекта и выполнения задач с помощью [Gulp.js](http://gulpjs.com)
+- .gitignore - Список ф-ов игнорируемых в GIT
+- .bowerrc - файл настройки Bower с помощью JSON
+- gulpfile.js - файл настроек для сборки проекта и выполнения задач с помощью [Gulp.js](http://gulpjs.com)
 
 
 
