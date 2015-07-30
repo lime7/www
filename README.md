@@ -18,7 +18,7 @@ ls
 npm init
 ```
 
-- bower.json - хранит зависимости, необходимые для конечного пользователя.
+- **bower.json** - *хранит зависимости, необходимые для конечного пользователя.*
 ```
 bower init
 ```
@@ -28,9 +28,9 @@ bower init
 touch .bowerrc .gitignore gulpfile.js
 ```
 
-- .gitignore - Список ф-ов игнорируемых в GIT
-- .bowerrc - файл настройки [Bower](http://bower.io) с помощью JSON
-- gulpfile.js - файл настроек для сборки проекта и выполнения задач с помощью [Gulp.js](http://gulpjs.com)
+- **.gitignore** - *cписок ф-ов игнорируемых в GIT*
+- **.bowerrc** - *файл настройки [Bower](http://bower.io) с помощью JSON*
+- **gulpfile.js** - *файл настроек для сборки проекта и выполнения задач с помощью [Gulp.js](http://gulpjs.com)*
 
 
 
