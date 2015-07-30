@@ -98,19 +98,42 @@ bower i bootstrap
 bower i --save slick-carousel
 bower i --save slick.js
 ```
+
+###INDEX.HTML
+```
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Test-pj</title>
+<!-- build:css css/vendor.css -->
+  <!-- bower:css -->
+  <!-- endbower -->
+<!-- endbuild -->
+
+<!-- build:css css/global.css -->
+  <link rel="stylesheet" href="css/base.css"></link>
+  <link rel="stylesheet" href="css/style.css"></link>
+ <!-- endbuild -->
+</head>
+<body>
+  //= header.html <!-- Подключение header с помощью gulp-rigger -->
+  <main> <h1>hello, world</h1> </main>
+  //= footer.html <!-- Подключение footer с помощью gulp-rigger -->
+  
+<!-- build:js scripts/combined.js -->
+  <!-- bower:js -->
+  <!-- endbower -->
+<!-- endbuild -->
+</body>
+</html>
+```
+
 ### Установка:
 ```
-$ git clone https://github.com/lime7/www.git
+git clone https://github.com/lime7/www.git
+npm i
+bower i
+gulp
 ```
 
-```
-$ npm i
-```
-
-```
-$ bower i
-```
-
-```
-$ gulp
-```
