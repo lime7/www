@@ -32,8 +32,46 @@ touch .bowerrc .gitignore gulpfile.js
 - **.bowerrc** - *файл настройки [Bower](http://bower.io) с помощью JSON*
 - **gulpfile.js** - *файл настроек для сборки проекта и выполнения задач с помощью [Gulp.js](http://gulpjs.com)*
 
+###УСТАНОВКА ПЛАГИНОВ:
+**Установка самого gulp:**
+```
+npm i –g gulp
+npm i --save-dev gulp
+```
+**Локальный dev сервер:**
+```
+npm i –g browser-sync
+npm i --save-dev browser-sync
+```
+
+**Наблюдение за изменениями файлов:**
+```
+npm i gulp-watch
+```
+
+**Очистка:**
+```
+npm i --save-dev gulp-clean
+```
 
 
+**Парсинг\конкатенация js, css, html ф-ов:**
+```
+npm i --save-dev gulp-useref
+npm i --save wiredep
+npm i --save-dev gulp-rigger
+```
+
+
+**Удаление не используемых стилей:**
+```
+npm i --save-dev gulp-uncss
+```
+
+**Автопрефиксы:**
+```
+npm i --save-dev gulp-autoprefixer
+```
 
 
 ### Установка:
