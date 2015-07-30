@@ -54,7 +54,6 @@ npm i gulp-watch
 npm i --save-dev gulp-clean
 ```
 
-
 **Парсинг\конкатенация js, css, html ф-ов:**
 ```
 npm i --save-dev gulp-useref
@@ -74,6 +73,31 @@ npm i --save-dev gulp-autoprefixer
 ```
 
 
+**Минификация:**
+```
+npm i --save-dev gulp-uglify
+npm i --save-dev gulp-css-minify
+npm i --save-dev gulp-imagemin
+npm i --save-dev imagemin-pngquant
+```
+
+**Удаление\деинсталяция:**
+```
+rm –r node_modules
+uninstall browser-sync
+npm cache clean ~/
+```
+
+**Bower:**
+```
+npm i –g bower
+npm update –g bower
+bower i --save jquery
+bower i --save jquery#1.11
+bower i bootstrap
+bower i --save slick-carousel
+bower i --save slick.js
+```
 ### Установка:
 ```
 $ git clone https://github.com/lime7/www.git
