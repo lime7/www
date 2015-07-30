@@ -150,4 +150,9 @@ gulp
 
 [snip2code example](https://www.snip2code.com/Snippet/449281/Bullet-proff-gulpfile)
 
-© [Семенченко](semenchenkov.github.io) 20015
+
+
+
+
+
+© *[Семенченко](semenchenkov.github.io)* 2015
