@@ -139,8 +139,8 @@ npm i
 bower i
 gulp
 ```
+-------------------------------------------------------------------------------------------------
 <br/>
-<p align="center"><a href="https://github.com/lime7/www" style="color:#00D0FF; text-decoration:none;"><h1 style="color:#00D0FF;" align="center"> ^ <h1></a></p>
 
 <h3 align="right">Ресурсы:</h3>
 <p align="right"><a href="https://www.youtube.com/watch?v=9zwwmjGz1Vs&list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo">LoftBlog</a></p>
