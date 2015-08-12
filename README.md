@@ -128,7 +128,9 @@ bower i --save slick.js
 </body>
 </html>
 ```
+### Структура ф-ов
 
+<div style="text-align:center;"><img src="https://github.com/lime7/www/blob/master/www_dir.png?raw=true" alt="www" style="display:inline-block"></div>
 ### Установка:
 ```
 git clone https://github.com/lime7/www.git
