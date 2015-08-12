@@ -140,7 +140,7 @@ bower i
 gulp
 ```
 
-###Ресурсы:
+<h3 align="right">Ресурсы:</h3>
 <p align="right"><a href="https://www.youtube.com/watch?v=9zwwmjGz1Vs&list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo">LoftBlog</a></p>
 <p align="right"><a href="http://alexfedoseev.com/post/54/frontend-project-build">О сборке проекта</a></p>
 <p align="right"><a href="http://habrahabr.ru/post/252745/">Самые нужные плагины</a></p>
