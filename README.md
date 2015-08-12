@@ -141,17 +141,12 @@ gulp
 ```
 
 ###Ресурсы:
-[LoftBlog](https://www.youtube.com/watch?v=9zwwmjGz1Vs&list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo)
-
-[О сборке проекта](http://alexfedoseev.com/post/54/frontend-project-build)
-
-[Самые нужные плагины](http://habrahabr.ru/post/252745/)
-
-[Приятная сборка](http://habrahabr.ru/post/250569/)
-
-[Быстрая сборка](http://habrahabr.ru/post/261467/)
-
-[snip2code example](https://www.snip2code.com/Snippet/449281/Bullet-proff-gulpfile)
+<p align="right"><a href="https://www.youtube.com/watch?v=9zwwmjGz1Vs&list=PLY4rE9dstrJwXCz1utct9b6Vub9VWQoKo">LoftBlog</a></p>
+<p align="right"><a href="http://alexfedoseev.com/post/54/frontend-project-build">О сборке проекта</a></p>
+<p align="right"><a href="http://habrahabr.ru/post/252745/">Самые нужные плагины</a></p>
+<p align="center"><a href="http://habrahabr.ru/post/250569/">Приятная сборка</a></p>
+<p align="center"><a href="http://habrahabr.ru/post/261467/">Быстрая сборка</a></p>
+<p align="center"><a href="https://www.snip2code.com/Snippet/449281/Bullet-proff-gulpfile">snip2code example</a></p>
 
 
 
