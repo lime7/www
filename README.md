@@ -128,7 +128,7 @@ bower i --save slick.js
 </body>
 </html>
 ```
-<h3 align="center">Структура проекта</h3>
+<h3 align="center">Структура проекта:</h3>
 
 <p align="center"><a href="https://github.com/lime7/www"><img src="https://github.com/lime7/www/blob/master/www_dir.png?raw=true" alt="" style="max-width:100%; display:inline-block;" width="350"></a></p>
 
@@ -158,4 +158,4 @@ gulp
 
 
 -------------------------------------------------------------------------------------------------
-<p align="center"> © **<a href="http://semenchenkov.github.io/">Семенченко</a>** 2015</p>
+<p align="center"> © <a href="http://semenchenkov.github.io/" style="font-weight:bold;">Семенченко</a> 2015</p>
