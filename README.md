@@ -130,7 +130,7 @@ bower i --save slick.js
 ```
 ### Структура проекта
 
-<p><a href="https://github.com/lime7/www"><img src="https://github.com/lime7/www/blob/master/www_dir.png?raw=true" alt="" style="max-width:100%; display:inline-block;" width="200"></a></p>
+<p align="center"><a href="https://github.com/lime7/www"><img src="https://github.com/lime7/www/blob/master/www_dir.png?raw=true" alt="" style="max-width:100%; display:inline-block;" width="350"></a></p>
 
 ### Установка:
 ```
